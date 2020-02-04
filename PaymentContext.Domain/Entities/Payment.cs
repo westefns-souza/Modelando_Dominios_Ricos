@@ -1,6 +1,4 @@
 using System;
-using System.Collections;
-using System.Collections.Generic;
 using Flunt.Validations;
 using PaymentContext.Domain.ValueObjets;
 using PaymentContext.Shared.Entities;
@@ -23,7 +21,7 @@ namespace PaymentContext.Domain.Entities
 
             AddNotifications(new Contract()
                 .Requires()
-                .IsGreaterThan(0, Total, "Payment.Total", "O Total não pode ser zero!")
+                .IsLowerOrEqualsThan(0, Total, "Payment.Total", "O Total não pode ser zero!")
                 .IsGreaterOrEqualsThan(Total, TotalPaid, "Payment.TotalPaid", "O valor pago é menor que o valor do pagamento!") 
             );
         }

@@ -190,3 +190,5 @@ C:\Users\weste\Documents\Desenvolvimento\Modelando-Dom-nios-Ricos-\PaymentContex
 C:\Users\weste\Documents\Desenvolvimento\Modelando-Dom-nios-Ricos-\PaymentContext.Tests\bin\Debug\netcoreapp3.1\PaymentContext.Shared.pdb
 C:\Users\weste\Documents\Desenvolvimento\Modelando-Dom-nios-Ricos-\PaymentContext.Tests\bin\Debug\netcoreapp3.1\PaymentContext.Domain.pdb
 C:\Users\weste\Documents\Desenvolvimento\Modelando-Dom-nios-Ricos-\PaymentContext.Tests\obj\Debug\netcoreapp3.1\PaymentContext.Tests.csproj.CopyComplete
+C:\Users\l4304\Documents\westefns\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Flunt.dll
+C:\Users\weste\Documents\Desenvolvimento\Modelando-Dom-nios-Ricos-\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Flunt.dll
