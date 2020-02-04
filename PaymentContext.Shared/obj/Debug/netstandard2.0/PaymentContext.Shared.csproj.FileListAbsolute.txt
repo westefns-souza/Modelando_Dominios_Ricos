@@ -6,3 +6,11 @@ C:\Users\l4304\Documents\westefns\PaymentContext\PaymentContext.Shared\obj\Debug
 C:\Users\l4304\Documents\westefns\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfo.cs
 C:\Users\l4304\Documents\westefns\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.dll
 C:\Users\l4304\Documents\westefns\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.pdb
+C:\Users\weste\Documents\Desenvolvimento\Modelando-Dom-nios-Ricos-\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.deps.json
+C:\Users\weste\Documents\Desenvolvimento\Modelando-Dom-nios-Ricos-\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
+C:\Users\weste\Documents\Desenvolvimento\Modelando-Dom-nios-Ricos-\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
+C:\Users\weste\Documents\Desenvolvimento\Modelando-Dom-nios-Ricos-\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.csprojAssemblyReference.cache
+C:\Users\weste\Documents\Desenvolvimento\Modelando-Dom-nios-Ricos-\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfoInputs.cache
+C:\Users\weste\Documents\Desenvolvimento\Modelando-Dom-nios-Ricos-\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfo.cs
+C:\Users\weste\Documents\Desenvolvimento\Modelando-Dom-nios-Ricos-\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.dll
+C:\Users\weste\Documents\Desenvolvimento\Modelando-Dom-nios-Ricos-\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.pdb
