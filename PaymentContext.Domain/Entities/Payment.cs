@@ -1,6 +1,4 @@
 using System;
-using System.Collections;
-using System.Collections.Generic;
 using Flunt.Validations;
 using PaymentContext.Domain.ValueObjets;
 using PaymentContext.Shared.Entities;
