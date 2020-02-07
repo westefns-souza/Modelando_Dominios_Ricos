@@ -1,37 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\weste\\Documents\\Desenvolvimento\\Modelando-Dom-nios-Ricos-\\PaymentContext.Tests\\PaymentContext.Tests.csproj": {}
+    "C:\\Users\\l4304\\Documents\\westefns\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\weste\\Documents\\Desenvolvimento\\Modelando-Dom-nios-Ricos-\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
+    "C:\\Users\\l4304\\Documents\\westefns\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\weste\\Documents\\Desenvolvimento\\Modelando-Dom-nios-Ricos-\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\l4304\\Documents\\westefns\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
         "projectName": "PaymentContext.Domain",
-        "projectPath": "C:\\Users\\weste\\Documents\\Desenvolvimento\\Modelando-Dom-nios-Ricos-\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
-        "packagesPath": "C:\\Users\\weste\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\weste\\Documents\\Desenvolvimento\\Modelando-Dom-nios-Ricos-\\PaymentContext.Domain\\obj\\",
+        "projectPath": "C:\\Users\\l4304\\Documents\\westefns\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+        "packagesPath": "C:\\Users\\l4304\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\l4304\\Documents\\westefns\\PaymentContext\\PaymentContext.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\weste\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\l4304\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://s-apl01:8088/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\weste\\Documents\\Desenvolvimento\\Modelando-Dom-nios-Ricos-\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
-                "projectPath": "C:\\Users\\weste\\Documents\\Desenvolvimento\\Modelando-Dom-nios-Ricos-\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
+              "C:\\Users\\l4304\\Documents\\westefns\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+                "projectPath": "C:\\Users\\l4304\\Documents\\westefns\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
               }
             }
           }
@@ -70,27 +70,27 @@
         }
       }
     },
-    "C:\\Users\\weste\\Documents\\Desenvolvimento\\Modelando-Dom-nios-Ricos-\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+    "C:\\Users\\l4304\\Documents\\westefns\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\weste\\Documents\\Desenvolvimento\\Modelando-Dom-nios-Ricos-\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\l4304\\Documents\\westefns\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
         "projectName": "PaymentContext.Shared",
-        "projectPath": "C:\\Users\\weste\\Documents\\Desenvolvimento\\Modelando-Dom-nios-Ricos-\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
-        "packagesPath": "C:\\Users\\weste\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\weste\\Documents\\Desenvolvimento\\Modelando-Dom-nios-Ricos-\\PaymentContext.Shared\\obj\\",
+        "projectPath": "C:\\Users\\l4304\\Documents\\westefns\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+        "packagesPath": "C:\\Users\\l4304\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\l4304\\Documents\\westefns\\PaymentContext\\PaymentContext.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\weste\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\l4304\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://s-apl01:8088/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -132,37 +132,37 @@
         }
       }
     },
-    "C:\\Users\\weste\\Documents\\Desenvolvimento\\Modelando-Dom-nios-Ricos-\\PaymentContext.Tests\\PaymentContext.Tests.csproj": {
+    "C:\\Users\\l4304\\Documents\\westefns\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\weste\\Documents\\Desenvolvimento\\Modelando-Dom-nios-Ricos-\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\l4304\\Documents\\westefns\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
         "projectName": "PaymentContext.Tests",
-        "projectPath": "C:\\Users\\weste\\Documents\\Desenvolvimento\\Modelando-Dom-nios-Ricos-\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
-        "packagesPath": "C:\\Users\\weste\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\weste\\Documents\\Desenvolvimento\\Modelando-Dom-nios-Ricos-\\PaymentContext.Tests\\obj\\",
+        "projectPath": "C:\\Users\\l4304\\Documents\\westefns\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
+        "packagesPath": "C:\\Users\\l4304\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\l4304\\Documents\\westefns\\PaymentContext\\PaymentContext.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\weste\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\l4304\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://s-apl01:8088/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\weste\\Documents\\Desenvolvimento\\Modelando-Dom-nios-Ricos-\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
-                "projectPath": "C:\\Users\\weste\\Documents\\Desenvolvimento\\Modelando-Dom-nios-Ricos-\\PaymentContext.Domain\\PaymentContext.Domain.csproj"
+              "C:\\Users\\l4304\\Documents\\westefns\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
+                "projectPath": "C:\\Users\\l4304\\Documents\\westefns\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj"
               },
-              "C:\\Users\\weste\\Documents\\Desenvolvimento\\Modelando-Dom-nios-Ricos-\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
-                "projectPath": "C:\\Users\\weste\\Documents\\Desenvolvimento\\Modelando-Dom-nios-Ricos-\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
+              "C:\\Users\\l4304\\Documents\\westefns\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+                "projectPath": "C:\\Users\\l4304\\Documents\\westefns\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
               }
             }
           }
