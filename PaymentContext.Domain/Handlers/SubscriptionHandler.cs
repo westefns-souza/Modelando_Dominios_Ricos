@@ -61,6 +61,10 @@ namespace PaymentContext.Domain.Handlers
             // Agrupar Validações
             AddNotifications(name, document, documentPayer, email, address, student, subscription, payment);
 
+            //Checar Validações
+            if (Invalid)
+                return new CommandResult(false, "Não foi possível Realizar sua assinatura!");
+
             // Salvar as informações
             _studentRepository.CreateSubscriptions(student);
 
@@ -79,7 +83,7 @@ namespace PaymentContext.Domain.Handlers
             if (command.Invalid)
             {
                 AddNotifications(command);
-                return new CommandResult(true, "Não foi possível Realizar sua assinatura!");
+                return new CommandResult(false, "Não foi possível Realizar sua assinatura!");
             }
 
             // Verificar se o documento já está cadastrado
@@ -108,6 +112,10 @@ namespace PaymentContext.Domain.Handlers
 
             // Agrupar Validações
             AddNotifications(name, document, documentPayer, email, address, student, subscription, payment);
+            
+            //Checar Validações
+            if (Invalid)
+                return new CommandResult(false, "Não foi possível Realizar sua assinatura!");
 
             // Salvar as informações
             _studentRepository.CreateSubscriptions(student);
