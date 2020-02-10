@@ -7,7 +7,7 @@ namespace PaymentContext.Tests
     public class CreateBoletoSubscriptionCommandTests
     {
         [TestMethod]
-        public void ShouldReturnErrorWherNameIsInvalid(string cnpj)
+        public void ShouldReturnErrorWherNameIsInvalid()
         {
             var command = new CreateBoletoSubscriptionCommand();
             command.FirstName = "";
